@@ -1,1 +1,2 @@
-# mezuniyet-proje
+## Projemin fikri:
+>
